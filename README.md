@@ -1,8 +1,8 @@
-# Personal Expense Tracker
+ Personal Expense Tracker
 
 A web application developed using Python, SQLite and Streamlit.
 
-## Features
+ Features
 
 - Add Expenses
 - Expense History
@@ -10,12 +10,10 @@ A web application developed using Python, SQLite and Streamlit.
 - Dashboard
 - Charts
 
-## Technologies
+ Technologies
 
 - Python
 - Streamlit
 - SQLite
 - Pandas
 - Plotly
-
-Developed by Aishaa.
