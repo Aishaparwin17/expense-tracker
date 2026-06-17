@@ -17,3 +17,6 @@ A web application developed using Python, SQLite and Streamlit.
 - SQLite
 - Pandas
 - Plotly
+
+Live Demo:
+https://personal-expense-tracker2026.streamlit.app/
